@@ -1,0 +1,14 @@
+{
+  "name": "is-wds",
+  "version": "1.0.0",
+  "description": "is WDS is string ?",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Omar Saber Ali",
+  "license": "ISC"
+}
